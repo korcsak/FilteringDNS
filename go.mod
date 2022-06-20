@@ -1,4 +1,3 @@
-module github.com/milgradesec/filter
 
 go 1.17
 
