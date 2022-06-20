@@ -1,3 +1,4 @@
+module github.com/korcsak/FilteringDNS
 
 go 1.17
 
